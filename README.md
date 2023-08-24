@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![pulsar](https://github.com/afrinashar/bikeUI/assets/98964571/aa1333ac-4fbe-46e0-b727-a9355d9000a0)
 
 ## Getting Started
 
